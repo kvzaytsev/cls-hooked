@@ -1,5 +1,5 @@
 {
-  "name": "cls-hooked",
+  "name": "continuation-local-storage",
   "version": "4.2.2",
   "description": "CLS using AsynWrap instead of async-listener - Node >= 4.7.0",
   "main": "index.js",
